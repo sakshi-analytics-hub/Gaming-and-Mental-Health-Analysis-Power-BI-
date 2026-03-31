@@ -1,4 +1,5 @@
 🎮 Gaming and Mental Health Analysis
+
 📌 Project Overview
 
 This project analyzes the relationship between gaming behavior and mental health using data from 1000 participants. It explores how gaming habits impact sleep, academic performance, productivity, and social isolation.
